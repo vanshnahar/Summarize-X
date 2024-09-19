@@ -1,1 +1,1 @@
-# text-summarizer
+# Offline text-summarizer  using hyperparameter tuned BERT model
